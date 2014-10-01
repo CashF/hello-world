@@ -1,4 +1,5 @@
 hello-world
 ===========
 
-Learning to use GitHub
+Making your learning process public is embarrassing. Nevertheless, here I am. 
+
